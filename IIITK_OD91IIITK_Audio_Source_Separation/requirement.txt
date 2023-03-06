@@ -1,0 +1,12 @@
+These Libraries are required to download before running the model:
+os
+numpy
+pandas
+librosa
+pydub
+wavfile
+tensorflow
+sklearn
+scipy
+matplotlib
+soundfile
